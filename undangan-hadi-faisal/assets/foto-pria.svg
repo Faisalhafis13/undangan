@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8ab9d8"/><stop offset="1" stop-color="#163e5b"/></linearGradient></defs>
+<rect width="600" height="750" fill="url(#g)"/>
+<circle cx="300" cy="285" r="105" fill="rgba(255,255,255,.18)"/>
+<path d="M120 690c30-170 330-170 360 0" fill="rgba(255,255,255,.15)"/>
+<text x="300" y="330" text-anchor="middle" font-family="Georgia" font-size="170" fill="white">H</text>
+<text x="300" y="710" text-anchor="middle" font-family="Arial" font-size="22" letter-spacing="5" fill="white">FOTO MEMPELAI PRIA</text>
+</svg>
